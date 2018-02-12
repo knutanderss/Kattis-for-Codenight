@@ -6,7 +6,7 @@
 
 
 ## Loops
-* [Tarifa]()
+* [Tarifa](https://open.kattis.com/problems/tarifa)
 * [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
 * [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)
 
